@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T12:48:49.812Z",
+  "generatedAt": "2026-08-21T14:06:55.111Z",
   "source": "https://pm.cprealty.co/rentals?q=Harden",
   "count": 3,
-  "minRent": 1195,
+  "minRent": 1095,
   "videoUrl": "https://bbemaildelivery.com/bbext/?p=vidEmbed&id=9BFCC431-5402-4E3B-BED1-9F1D81223F5C&ar=1&ignore_poster=1&noCookies=1",
   "units": [
     {
@@ -12,7 +12,7 @@
       "city": "Graham",
       "state": "NC",
       "zip": "27253",
-      "rent": 1195,
+      "rent": 1095,
       "beds": 2,
       "baths": 1.5,
       "sqft": 980,
