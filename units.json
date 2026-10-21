@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T07:10:34.705Z",
+  "generatedAt": "2026-10-21T13:30:56.574Z",
   "source": "https://pm.cprealty.co/rentals?q=Harden",
-  "count": 3,
+  "count": 2,
   "minRent": 1095,
   "videoUrl": "https://bbemaildelivery.com/bbext/?p=vidEmbed&id=9BFCC431-5402-4E3B-BED1-9F1D81223F5C&ar=1&ignore_poster=1&noCookies=1",
   "units": [
@@ -24,27 +24,6 @@
       "hero": 1485575,
       "photos": [
         1485575
-      ]
-    },
-    {
-      "id": "95257",
-      "address": "510 East Harden Street",
-      "unit": "H",
-      "city": "Graham",
-      "state": "NC",
-      "zip": "27253",
-      "rent": 1095,
-      "beds": 2,
-      "baths": 1.5,
-      "sqft": 980,
-      "available": "July 16, 2026",
-      "url": "https://pm.cprealty.co/rentals/510-east-harden-street-h-graham-nc-27253-unit-h",
-      "applyUrl": "https://cptriangle.managebuilding.com/Resident/rental-application/new?listingId=95257",
-      "videoUrl": "https://bbemaildelivery.com/bbext/?p=vidEmbed&id=93ebfe0c-76f5-44b9-aa4f-b17f1f452800&ar=1&ignore_poster=1&noCookies=1",
-      "group": 477063,
-      "hero": 1487820,
-      "photos": [
-        1487820
       ]
     },
     {
